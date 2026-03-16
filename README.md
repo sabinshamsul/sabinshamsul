@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Data Science and AI student with hands-on experience in Python, machine learning, deep learning, and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
+I'm a Final Year CS Student specialising on Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
 
 ---
 
