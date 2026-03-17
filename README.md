@@ -97,7 +97,7 @@ MediVision is a full-stack hospital emergency department patient flow management
 
 ## 🚀 Other Projects
 
-- 🌿 **Smart Monitoring for Houseplants** — IoT prototype using ESP32 & Raspberry Pi for automated plant monitoring
+- 🌿 **[Smart Monitoring for Houseplants](https://wokwi.com/projects/436298272500748289)** — IoT prototype using ESP32 & Raspberry Pi for automated plant monitoring
 - 🎬 **Sentiment Analysis on IMDB Reviews** — Bidirectional LSTM model with **86.8% accuracy**
 - 🧠 **Mental Health Sentiment Analysis** — Text classification on 53K+ statements, up to **93.58% accuracy**
 - 💳 **Predicting Loan Defaults** — ML models (KNN & Decision Tree) achieving up to **88.54% accuracy**
