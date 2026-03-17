@@ -68,6 +68,10 @@ I'm a Final Year CS Student specialising on Data Science and AI with hands-on ex
 
 MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage and clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
 
+### 👀 Check It Out
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabinshamsul/medivision-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medivision-dashboard.vercel.app/)
+
 ### ✨ Key Features
 - 🧑‍⚕️ **Patient Registration & Tracking** - Vital signs, chief complaint & auto ID generation
 - 📊 **Admin Dashboard** - Real-time stats, triage pie charts & patient status management
@@ -89,9 +93,6 @@ MediVision is a full-stack hospital emergency department patient flow management
 | Category 1 | 🔴 Red | Critical | Immediate |
 | Category 2 | 🟡 Yellow | Urgent, but stable | 30 mins |
 | Category 3 | 🟢 Green | Non-urgent | 60 mins |
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabinshamsul/medivision-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medivision-dashboard.vercel.app/)
 
 ---
 
