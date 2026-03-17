@@ -60,7 +60,7 @@ I'm a Final Year CS Student specialising on Data Science and AI with hands-on ex
 
 ---
 
-## 🏥 Final Year Project — MediVision Dashboard _(Smart Patient Flow Platform)_
+## 🏥 Final Year Project - MediVision Dashboard _(Smart Patient Flow Platform)_
 
 > **Visual Analytics Dashboard for Patient Pathway & Hospital Flow Management**
 
@@ -69,10 +69,10 @@ I'm a Final Year CS Student specialising on Data Science and AI with hands-on ex
 MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage and clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
 
 ### ✨ Key Features
-- 🧑‍⚕️ **Patient Registration & Tracking** — Vital signs, chief complaint & auto ID generation
-- 📊 **Admin Dashboard** — Real-time stats, triage pie charts & patient status management
-- 👨‍⚕️ **Clinician Dashboard** — Live waiting queue, treatment assignment & AI triage recommendation
-- 🔐 **JWT Authentication** — Role-based access for Admin & Clinician
+- 🧑‍⚕️ **Patient Registration & Tracking** - Vital signs, chief complaint & auto ID generation
+- 📊 **Admin Dashboard** - Real-time stats, triage pie charts & patient status management
+- 👨‍⚕️ **Clinician Dashboard** - Live waiting queue, treatment assignment & AI triage recommendation
+- 🔐 **JWT Authentication** - Role-based access for Admin & Clinician
 
 ### 🛠️ Tech Stack
 
@@ -98,12 +98,12 @@ MediVision is a full-stack hospital emergency department patient flow management
 ## 🚀 Other Projects
 
 - 🌿 **[Smart Monitoring for Houseplants](https://wokwi.com/projects/436298272500748289)** — IoT prototype using ESP32 & Raspberry Pi for automated plant monitoring
-- 🎬 **Sentiment Analysis on IMDB Reviews** — Bidirectional LSTM model with **86.8% accuracy**
-- 🧠 **Mental Health Sentiment Analysis** — Text classification on 53K+ statements, up to **93.58% accuracy**
-- 💳 **Predicting Loan Defaults** — ML models (KNN & Decision Tree) achieving up to **88.54% accuracy**
-- 🦴 **Bone Fracture Detection** — CNN model for X-ray fracture detection with **73.84% accuracy**
-- ❤️ **Heart Disease Prediction** — Logistic Regression model on UCI dataset with **66.67% accuracy**
-- 💊 **Analyse Lethal Drug Combinations** — Data mining with Random Forest achieving **81% accuracy**
+- 🎬 **Sentiment Analysis on IMDB Reviews** - Bidirectional LSTM model with **86.8% accuracy**
+- 🧠 **Mental Health Sentiment Analysis** - Text classification on 53K+ statements, up to **93.58% accuracy**
+- 💳 **Predicting Loan Defaults** - ML models (KNN & Decision Tree) achieving up to **88.54% accuracy**
+- 🦴 **Bone Fracture Detection** - CNN model for X-ray fracture detection with **73.84% accuracy**
+- ❤️ **Heart Disease Prediction** - Logistic Regression model on UCI dataset with **66.67% accuracy**
+- 💊 **Analyse Lethal Drug Combinations** - Data mining with Random Forest achieving **81% accuracy**
 
 ---
 
