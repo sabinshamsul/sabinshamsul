@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=230&amp;section=header&amp;text=Syahmi%20Shamsul&amp;fontSize=60&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20sabin.shamsul%40gmail.com&amp;descSize=18&amp;descAlignY=58&amp;descColor=00B4D8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;Computer+Science+Student+%40+Taylor's+University;Data+Science+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
 # Hi there, I'm Syahmi Shamsul! 👋
 
