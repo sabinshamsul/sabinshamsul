@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syahmi%20Shamsul&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%26%20AI&descSize=22&descAlignY=58&descColor=00B4D8)
+![Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=230&amp;section=header&amp;text=Syahmi%20Shamsul&amp;fontSize=60&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20sabin.shamsul%40gmail.com&amp;descSize=18&amp;descAlignY=58&amp;descColor=00B4D8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;Computer+Science+Student+%40+Taylor's+University;Data+Science+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
