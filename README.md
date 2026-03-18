@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
-I'm a Final Year CS student specialising on Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
+I'm a Final Year CS student specialising in Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
 
 ---
 
