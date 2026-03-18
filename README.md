@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
-# Hi there, I'm Syahmi Shamsul! 👋
+# Hello there, I'm Syahmi Shamsul! 👋
 
 🎓 Final Year Computer Science student @ Taylor's University, Malaysia
 
@@ -102,15 +102,17 @@ MediVision is a full-stack hospital emergency department patient flow management
 
 ---
 
-## 🚀 Other Projects
+## 🚀 Projects
 
-- 🌿 **[Smart Monitoring for Houseplants](https://wokwi.com/projects/436298272500748289)** — IoT prototype using ESP32 & Raspberry Pi for automated plant monitoring
-- 🎬 **Sentiment Analysis on IMDB Reviews** - Bidirectional LSTM model with **86.8% accuracy**
-- 🧠 **Mental Health Sentiment Analysis** - Text classification on 53K+ statements, up to **93.58% accuracy**
-- 💳 **Predicting Loan Defaults** - ML models (KNN & Decision Tree) achieving up to **88.54% accuracy**
-- 🦴 **Bone Fracture Detection** - CNN model for X-ray fracture detection with **73.84% accuracy**
-- ❤️ **Heart Disease Prediction** - Logistic Regression model on UCI dataset with **66.67% accuracy**
-- 💊 **Analyse Lethal Drug Combinations** - Data mining with Random Forest achieving **81% accuracy**
+| Project | Description | Output |
+|---------|-------------|--------|
+| 🌿 Smart Monitoring for Houseplants | IoT prototype using ESP32 & Raspberry Pi for automated plant watering and monitoring of moisture, temperature, humidity and pH | [Circuit Simulation](https://wokwi.com/projects/436298272500748289) |
+| 🎬 Sentiment Analysis on IMDB Reviews | Bidirectional LSTM model trained on IMDB movie reviews for binary sentiment classification | **86.8% accuracy** |
+| 🧠 Mental Health Sentiment Analysis | Text classification on 53K+ mental health statements using Decision Tree and Neural Network | **93.58% accuracy** |
+| 💳 Predicting Loan Defaults | ML models (kNN & Decision Tree) to analyse loan default risk on a financial dataset | **88.54% accuracy** |
+| 🦴 Bone Fracture Detection | CNN model to automatically detect bone fractures in X-ray images using Computer Vision | **73.84% accuracy** |
+| ❤️ Heart Disease Prediction | Logistic Regression model with EDA on the UCI Heart Disease dataset to predict risk | **66.67% accuracy** |
+| 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering and Isolation Forest | **81% accuracy** |
 
 ---
 
