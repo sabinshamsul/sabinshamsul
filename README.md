@@ -71,7 +71,7 @@ I'm a Final Year CS student specialising in Data Science and AI with hands-on ex
 
 > **Visual Analytics Dashboard for Patient Pathway & Hospital Flow Management**
 
-> *Capstone Project | Taylor's University*
+> *Capstone Project | Taylor's University, Malaysia*
 
 MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage and clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
 
