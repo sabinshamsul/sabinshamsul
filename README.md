@@ -94,6 +94,12 @@ MediVision is a full-stack hospital emergency department patient flow management
 | Category 2 | 🟡 Yellow | Urgent, but stable | 30 mins |
 | Category 3 | 🟢 Green | Non-urgent | 60 mins |
 
+### 🏆 Recognition
+
+| Position | Competition | Event | Year |
+|----------|------------|-------|------|
+| 🥈 Finalist | UG Research Idea Pitch Competition - Centre for Active Living (CAL) | Research & Innovation Festival 2025, Taylor's University, Malaysia | 2025 |
+
 ---
 
 ## 🚀 Other Projects
