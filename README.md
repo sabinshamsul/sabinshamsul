@@ -4,19 +4,28 @@
 
 # Hello there, I'm Syahmi Shamsul! 👋
 
-🎓 Final Year Computer Science student @ Taylor's University, Malaysia
+I'm a Final Year CS student specialising on Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
 
-📊 Specialising in Data Science & AI
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabinshamsul&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinshamsul&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabinshamsul)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabin.shamsul@gmail.com)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Final Year CS Student specialising on Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
-
----
-
-## 🛠️ Skills
+### 🛠️ Skills
 
 **Programming:**
 
@@ -60,7 +69,7 @@ I'm a Final Year CS Student specialising on Data Science and AI with hands-on ex
 
 ---
 
-## 🏥 Final Year Project - MediVision Dashboard _(Smart Patient Flow Platform)_
+### 🏥 Final Year Project - MediVision Dashboard _(Smart Patient Flow Platform)_
 
 > **Visual Analytics Dashboard for Patient Pathway & Hospital Flow Management**
 
@@ -68,17 +77,17 @@ I'm a Final Year CS Student specialising on Data Science and AI with hands-on ex
 
 MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage and clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
 
-### 👀 Check It Out
+#### 👀 Check It Out
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabinshamsul/medivision-dashboard)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medivision-dashboard.vercel.app/)
 
-### ✨ Key Features
+#### ✨ Key Features
 - 🧑‍⚕️ **Patient Registration & Tracking** - Vital signs, chief complaint & auto ID generation
 - 📊 **Admin Dashboard** - Real-time stats, triage pie charts & patient status management
 - 👨‍⚕️ **Clinician Dashboard** - Live waiting queue, treatment assignment & AI triage recommendation
 - 🔐 **JWT Authentication** - Role-based access for Admin & Clinician
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -87,14 +96,14 @@ MediVision is a full-stack hospital emergency department patient flow management
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🚦 Triage System
+#### 🚦 Triage System
 | Level | Colour | Priority | Response Time |
 |-------|--------|----------|---------------|
 | Category 1 | 🔴 Red | Critical | Immediate |
 | Category 2 | 🟡 Yellow | Urgent, but stable | 30 mins |
 | Category 3 | 🟢 Green | Non-urgent | 60 mins |
 
-### 🏆 Recognition
+#### 🏆 Recognition
 
 | Position | Competition | Event | Year |
 |----------|------------|-------|------|
@@ -102,7 +111,7 @@ MediVision is a full-stack hospital emergency department patient flow management
 
 ---
 
-## 🚀 Projects
+### 🚀 Other Projects
 
 | Project | Description | Output |
 |---------|-------------|--------|
@@ -113,18 +122,3 @@ MediVision is a full-stack hospital emergency department patient flow management
 | 🦴 Bone Fracture Detection | CNN model to automatically detect bone fractures in X-ray images using Computer Vision | **73.84% accuracy** |
 | ❤️ Heart Disease Prediction | Logistic Regression model with EDA on the UCI Heart Disease dataset to predict risk | **66.67% accuracy** |
 | 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering and Isolation Forest | **81% accuracy** |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabinshamsul&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinshamsul&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabinshamsul)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabin.shamsul@gmail.com)
