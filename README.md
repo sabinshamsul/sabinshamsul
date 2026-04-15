@@ -16,6 +16,7 @@ I'm a Final Year CS student specialising in Data Science and AI with hands-on ex
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sabinshamsul&theme=dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabinshamsul&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📬 Connect with Me
