@@ -1,13 +1,20 @@
+<div align="center">
+  
 ![Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=230&amp;section=header&amp;text=Syahmi%20Shamsul&amp;fontSize=60&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20sabin.shamsul%40gmail.com&amp;descSize=18&amp;descAlignY=58&amp;descColor=00B4D8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
-I'm a Final Year CS student specialising in Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems.
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
+I'm a Final Year CS student specialising in Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems. 
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sabinshamsul&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sabinshamsul&theme=dark)
 
 ---
 
@@ -118,3 +125,11 @@ MediVision is a full-stack hospital emergency department patient flow management
 | 🦴 Bone Fracture Detection | CNN model to automatically detect bone fractures in X-ray images using Computer Vision | **73.84% accuracy** |
 | ❤️ Heart Disease Prediction | Logistic Regression model with EDA on the UCI Heart Disease dataset to predict risk | **66.67% accuracy** |
 | 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering and Isolation Forest | **81% accuracy** |
+
+---
+
+<div align="center">
+  
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+
+</div>
