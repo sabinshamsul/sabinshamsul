@@ -12,6 +12,30 @@ I'm a Final Year CS student specialising in Data Science and AI with hands-on ex
 
 ---
 
+## 🛠️ Currently Building
+
+### 🎓 [CampusPal](https://github.com/sabinshamsul/campuspal) (AI-Powered Student Helpdesk)
+
+A JavaFX desktop app that helps uni students get answers to their academic and admin questions, even at 2am when nobody's around.
+
+**What it'll do:**
+- 🔐 Login/register (students & admins, different access)
+- 🎫 Submit support tickets and track them through to resolution
+- 📧 Get email updates when ticket status changes
+- 📚 Browse FAQs so people stop asking the same 10 questions
+- 🤖 Chat with an AI bot (LangChain4j) when you just want an answer right now
+- 💾 Works offline too since everything's stored locally in JSON
+
+
+![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-21-1E90FF?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-AI-00A67E?style=flat-square)
+
+> 🚧 **Still cooking** - live demo and screenshots coming soon.
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sabinshamsul&theme=dark)
