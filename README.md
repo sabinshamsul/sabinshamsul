@@ -41,6 +41,9 @@ A JavaFX desktop app that helps uni students get answers to their academic and a
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sabinshamsul&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sabinshamsul&theme=dark)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinshamsul&layout=compact&theme=dark&hide=jupyter%20notebook)
+
 ---
 
 ## 📬 Connect with Me
