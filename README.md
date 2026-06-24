@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-
 I'm a Final Year CS student specialising in Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems. 
 
 </div>
@@ -153,9 +151,3 @@ MediVision is a full-stack hospital emergency department patient flow management
 | 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering and Isolation Forest | **81% accuracy** |
 
 ---
-
-<div align="center">
-  
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
-
-</div>
