@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&width=700&lines=Hello+World!+I'm+Syahmi+Shamsul!+👋;CS+Student+%40+Taylor's+University;Data+Science+📊+%26+AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
-I'm a Final Year CS student specialising in Data Science and AI with hands-on experience in Python, machine learning, deep learning and data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems. 
+I'm a Final Year CS student specialising in Data Science & AI with hands-on experience in Python, machine learning, deep learning & data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems. 
 
 </div>
 
@@ -14,11 +14,11 @@ I'm a Final Year CS student specialising in Data Science and AI with hands-on ex
 
 ### 🎓 [CampusPal](https://github.com/sabinshamsul/campuspal) (AI-Powered Student Helpdesk)
 
-A JavaFX desktop app that helps uni students get answers to their academic and admin questions, even at 2am when nobody's around.
+A JavaFX desktop app that helps uni students get answers to their academic & admin questions, even at 2am when nobody's around.
 
 **What it'll do:**
 - 🔐 Login/register (students & admins, different access)
-- 🎫 Submit support tickets and track them through to resolution
+- 🎫 Submit support tickets & track them through to resolution
 - 📧 Get email updates when ticket status changes
 - 📚 Browse FAQs so people stop asking the same 10 questions
 - 🤖 Chat with an AI bot (LangChain4j) when you just want an answer right now
@@ -30,7 +30,7 @@ A JavaFX desktop app that helps uni students get answers to their academic and a
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-AI-00A67E?style=flat-square)
 
-> 🚧 **Still cooking** - live demo and screenshots coming soon.
+> 🚧 **Still cooking** - live demo & screenshots coming soon.
 
 ---
 
@@ -65,7 +65,7 @@ A JavaFX desktop app that helps uni students get answers to their academic and a
 **Data Analysis & Science:**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![P&as](https://img.shields.io/badge/P&as-150458?style=for-the-badge&logo=p&as&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
@@ -102,7 +102,7 @@ A JavaFX desktop app that helps uni students get answers to their academic and a
 
 > *Capstone Project | Taylor's University, Malaysia*
 
-MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage and clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
+MediVision is a full-stack hospital emergency department patient flow management system built to streamline hospital pathway, triage & clinical decision-making in real time built by a team of 5 members for our final year project (Capstone Project).
 
 #### 👀 Check It Out
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabinshamsul/medivision-dashboard)
@@ -142,13 +142,13 @@ MediVision is a full-stack hospital emergency department patient flow management
 
 | Project | Description | Output |
 |---------|-------------|--------|
-| 🌿 Smart Monitoring for Houseplants | IoT prototype using ESP32 & Raspberry Pi for automated plant watering and monitoring of moisture, temperature, humidity and pH | **[Circuit Simulation](https://wokwi.com/projects/436298272500748289)** |
+| 🌿 Smart Monitoring for Houseplants | IoT prototype using ESP32 & Raspberry Pi for automated plant watering & monitoring of moisture, temperature, humidity & pH | **[Circuit Simulation](https://wokwi.com/projects/436298272500748289)** |
 | 🎬 Sentiment Analysis on IMDB Reviews | Bidirectional LSTM model trained on IMDB movie reviews for binary sentiment classification | **86.8% accuracy** |
-| [🧠 Mental Health Sentiment Analysis](https://github.com/sabinshamsul/Data-Analytics-ML) | Text classification on 53K+ mental health statements using Decision Tree and Neural Network | **[Live Demo](https://huggingface.co/spaces/sabinshamsul/mental-health-demo)** |
-| 💳 Predicting Loan Defaults | ML models (kNN & Decision Tree) to analyse loan default risk on a financial dataset | **88.54% accuracy** |
+| [🧠 Mental Health Sentiment Analysis](https://github.com/sabinshamsul/Data-Analytics-ML) | Text classification on 53K+ mental health statements using Decision Tree & Neural Network | **[Live Demo](https://huggingface.co/spaces/sabinshamsul/mental-health-demo)** |
+| [💳 Loan Repayment Risk Prediction](https://github.com/sabinshamsul/loan-repayment) | ML pipeline on 3 merged financial datasets (loan, payment & underwriting) to predict default risk, engineered payment behaviour features & compared Logistic Regression vs Random Forest | **74% accuracy, AUC-ROC - 0.814)** |
 | [🦴 Bone Fracture Detection](https://github.com/sabinshamsul/Bone-Fracture-Detection) | X-ray fracture detection using EfficientNetB0 transfer learning with OpenCV/CLAHE preprocessing & Grad-CAM interpretability | **[Live Demo](https://huggingface.co/spaces/sabinshamsul/bone-fracture-detection)** |
 | [🏛️ AI-Governance RAG](https://github.com/sabinshamsul/rag-ai) | Retrieval-augmented Q&A over ~5,200 AI-governance documents using sentence-transformers, FAISS & Gemini, with grounded, source-cited answers | **[Live Demo](https://huggingface.co/spaces/sabinshamsul/rag-ai-governance)** |
 | ❤️ Heart Disease Prediction | Logistic Regression model with EDA on the UCI Heart Disease dataset to predict risk | **66.67% accuracy** |
-| 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering and Isolation Forest | **81% accuracy** |
+| 💊 Analyse Lethal Drug Combinations | Data mining on drug-death records using Random Forest, K-Means clustering & Isolation Forest | **81% accuracy** |
 
 ---
