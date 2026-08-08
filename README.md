@@ -14,8 +14,6 @@ I'm a Final Year CS student specialising in Data Science & AI with hands-on expe
 
 ## 🛠️ Currently Building
 
-### 💰 [QIRA] (Budget Tracker)
-
 > 🚧 **Still cooking** - live demo & screenshots coming soon.
 
 ---
