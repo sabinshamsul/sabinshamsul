@@ -14,7 +14,13 @@ I'm a Final Year CS student specialising in Data Science & AI with hands-on expe
 
 ## 🛠️ Currently Building
 
-> 🚧 **Still cooking** - live demo & screenshots coming soon.
+### 🎓 [CampusPal](https://github.com/sabinshamsul/campuspal) - AI-Powered Student Helpdesk
+
+A JavaFX desktop application built for university students needing academic and administrative support outside office hours. Features secure login, support ticket tracking, an FAQ knowledge base, and an AI chatbot powered by LangChain4j, all running offline-first with local JSON storage.
+
+> **Status:** 🚧 In development - [Track progress on the project board](https://github.com/users/sabinshamsul/projects/1)
+
+`Java` `JavaFX` `Maven` `Scene Builder` `LangChain4j`
 
 ---
 
