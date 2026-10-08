@@ -6,7 +6,9 @@
 
 [![Cashku](https://img.shields.io/badge/Software%20Engineer%20%26%20Data%20Analyst%20Intern-Cashku-0A66C2?style=flat&logo=github)](https://github.com/Cashku-Platform)
 
-I'm a Final Year CS student specialising in Data Science & AI with hands-on experience in Python, machine learning, deep learning & data analytics. I enjoy turning raw data into practical, actionable insights that solve real-world problems. Currently interning @ [Cashku](https://github.com/Cashku-Platform).
+I'm a Final Year CS student specialising in Data Science & AI. Currently interning @ [Cashku](https://github.com/Cashku-Platform), where I make sure the fund data behind a Malaysian unit trust platform flows clean, shows up where it should, and doesn't leak numbers everywhere. When something looks off, I trace it back through the pipes, find the clog, and fix it properly so it stays fixed.
+
+Outside of that, I a building **SABS DataWorks**  from scratch, a side business for anyone or any business drowning in messy data. If you've got tangled spreadsheets, dashboards that don't make sense or boring manual data work eating your time, I'll help sort it out. Drop me a message at sabin.shamsul@gmail.com
 
 </div>
 
